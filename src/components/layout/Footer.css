@@ -1,0 +1,15 @@
+.footer--container {
+    background: rgb(43, 44, 43);
+}
+
+.footer--content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+}
+
+.footer--info span {
+    color: #EDBF17;
+}

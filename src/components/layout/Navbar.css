@@ -1,0 +1,24 @@
+.nav--container {
+    background: rgb(43, 44, 43);
+    padding: 0 100px;
+    line-height: 1;
+}
+
+.nav--content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 2rem;
+    color: rgb(255, 255, 255);
+}
+
+.movieappsign {
+    font-size: 80px;
+    justify-content: space-between;
+    margin-top: 5px;
+
+}
+
+span {
+    padding: 10px;
+}

@@ -1,0 +1,39 @@
+.moviecard---container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 20px;
+    width: 100%;
+    background-color: rgb(31, 31, 34);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.cardbody {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ourmovies {
+    display: flex;
+    width: 100%;
+    height: 100%;
+
+}
+
+.cardbody h5 {
+    padding: .6rem 0;
+}
+
+.btn {
+    padding: 1rem 1.5rem;
+
+}
+
+.btn:focus {
+    outline-style: groove;
+    outline-color: rgb(147, 183, 229);
+    outline-width: 3px;
+}
